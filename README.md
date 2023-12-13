@@ -1,3 +1,3 @@
 ﻿# Snake-Game
 
-# Snake-Game developed using Tkinker
+Snake-Game developed using Tkinker
